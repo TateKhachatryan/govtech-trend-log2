@@ -1,0 +1,9 @@
+# Reported GovTech Low-Code Trends
+2026-08-04 | Newgen named a Major Player in IDC MarketScape for AI-Enabled Government Case Management | https://www.prnewswire.com/apac/news-releases/newgen-software-named-a-major-player-in-idc-marketscape-for-national-civilian-government-ai-enabled-case-management-2026-302836362.html
+2026-08-04 | Pega expands AI platform with agent orchestration and Model Context Protocol (MCP) support | https://siliconangle.com/2026/06/08/pega-expands-ai-platform-agent-orchestration-development-tools-new-pricing-model/
+2026-08-04 | Pega launches FedRAMP High-authorized "Blueprint for Government" AI design tool | https://www.businesswire.com/news/home/20260407428509/en/Pega-Helps-Federal-Government-Modernize-Legacy-IT-Systems-with-Launch-of-Pega-Blueprint-for-Government
+2026-08-04 | IMF technical note maps emerging digital tech (AI, cloud, RPA) onto public financial management | https://www.imf.org/en/publications/tnm/issues/2026/04/07/harnessing-emerging-digital-technologies-toward-a-new-frontier-of-public-financial-574910
+2026-08-04 | UNICEF Mozambique RFP for a National Digital Case Management System, social welfare sector | https://www.ungm.org/Public/Notice/292197
+2026-08-05 | World Bank's World Development Report 2026 warns developing countries to adopt AI or fall behind | https://www.worldbank.org/en/news/press-release/2026/08/04/ai-offers-lifeline-to-developing-economies-in-an-era-of-weak-growth
+2026-08-05 | OpenAI's GPT-5.6 models go live for U.S. federal agencies under FedRAMP Moderate | https://www.nextgov.com/artificial-intelligence/2026/08/openais-advanced-models-have-gone-live-government-use/415213/
+2026-08-05 | EU AI Act's high-risk AI system rules take effect for public administration | https://responsibleailabs.ai/knowledge-hub/articles/eu-ai-act-august-2026-compliance

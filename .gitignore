@@ -1,0 +1,3 @@
+.slack-webhook
+.claude/
+cron-run.log
