@@ -163,3 +163,14 @@
 - **Slack webhook response:** HTTP 200, body "ok" — success.
 - **History file update:** Not updated (no notable items reported today).
 - **Errors:** None. Temp Slack payload file (/tmp/trend-slack-message.txt) created and deleted as expected.
+
+## Run: 2026-08-11
+
+- **Timestamp:** 2026-08-11 (local run, interactive)
+- **History status:** reported-history.md existed (last entry 2026-08-05) → used normal ~24-48h search window (widened slightly to cover the gap back to 2026-08-05 since prior runs' cadence was unclear, per filter-by-URL rule rather than window strictness).
+- **Search summary:** Web searches across low-code/no-code govtech vendors (Appian, Pega, OutSystems, Mendix, Power Platform, ServiceNow), AI-in-government-solutions across eJustice/Social Protection/PFM/M&E, and donor/dev-bank sources (World Bank, ADB, UN, EU AI Act).
+- **Candidates found:** ~10 (Pega FedRAMP Class D, Pega Forrester Wave AI Platforms leader, ServiceNow 50-states AI wins, Microsoft Power Platform Aug update, EU AI Act Digital Omnibus deadline postponement, Gartner 2026 LCAP Magic Quadrant, Ethiopia Digital ID World Bank project, court AI tools, tender-intelligence AI platforms, fraud-detection AI in benefits payments).
+- **Survived filtering:** 3 (Pega FedRAMP Class D, Pega Forrester Wave leader, Microsoft Power Platform Aug update). Rest discarded as too old (ServiceNow item ~3 weeks old; EU Digital Omnibus finalized June 29/entered force late July, and largely conflicts with/updates an already-reported 2026-08-05 item without a fresh news peg; Gartner MQ from May 2026; Ethiopia Digital ID ongoing project with no new peg this week), generic/recycled (court AI, tender-intelligence platforms, fraud-detection pieces), or not clearly low-code/AI-in-gov specific.
+- **Outcome:** Sent digest with 3 items.
+- **Slack webhook response:** HTTP 200, body "ok" — success.
+- **Errors:** None.

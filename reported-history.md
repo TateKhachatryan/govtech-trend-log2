@@ -7,3 +7,6 @@
 2026-08-05 | World Bank's World Development Report 2026 warns developing countries to adopt AI or fall behind | https://www.worldbank.org/en/news/press-release/2026/08/04/ai-offers-lifeline-to-developing-economies-in-an-era-of-weak-growth
 2026-08-05 | OpenAI's GPT-5.6 models go live for U.S. federal agencies under FedRAMP Moderate | https://www.nextgov.com/artificial-intelligence/2026/08/openais-advanced-models-have-gone-live-government-use/415213/
 2026-08-05 | EU AI Act's high-risk AI system rules take effect for public administration | https://responsibleailabs.ai/knowledge-hub/articles/eu-ai-act-august-2026-compliance
+2026-08-11 | Pega expands FedRAMP Class D certification for Pega Cloud for Government | https://www.pega.com/about/news/press-releases/pega-expands-fedramp-class-d-certified-capabilities-pega-cloud-government
+2026-08-11 | Pega named a Leader in The Forrester Wave: AI Platforms, Q3 2026 | https://www.pega.com/about/news/press-releases/pega-named-leader-ai-platforms-independent-research-firm
+2026-08-11 | Microsoft ships new AI agent governance and no-code AI features in Power Platform (Aug 2026 update) | https://www.microsoft.com/en-us/power-platform/blog/2026/08/06/whats-new-in-power-platform-july-august-2026-feature-update/
