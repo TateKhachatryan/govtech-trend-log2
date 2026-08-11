@@ -174,3 +174,12 @@
 - **Outcome:** Sent digest with 3 items.
 - **Slack webhook response:** HTTP 200, body "ok" — success.
 - **Errors:** None.
+
+## Run: 2026-08-11 20:51 (+04)
+- History file existed (last entries also dated 2026-08-11) -> used normal 24-48h search window.
+- Searched: govtech/vendor news (Appian, OutSystems, Mendix, ServiceNow, Newgen, Pega, IBM), AI/GenAI features in low-code platforms, analyst commentary (Gartner/Forrester/IDC), donor/dev-bank sources (World Bank, ADB, UNDP/UNICEF) across eJustice, Social Protection, PFM, M&E.
+- Candidate items found: ~8 (Newgen IDC MarketScape recognition, Appian public sector AI survey, Mendix 11 agentic AI release, ADB digital transformation strategy, OECD Digital Government Outlook 2026, NIST AI evaluation platform, Pega partner awards at PegaWorld, various World Bank/UN tenders not matching low-code/AI govtech criteria).
+- Survived filtering: 0 — all candidates were either already in reported-history.md or dated well outside the 24-48h window (June-July 2026), not new developments.
+- Outcome: "nothing notable" message sent.
+- Slack webhook response: success, HTTP 200.
+- Errors: none.
