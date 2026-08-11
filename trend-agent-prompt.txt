@@ -11,7 +11,7 @@ Execution log file: execution-log.md (in the working directory)
    - AI/GenAI features being added to these low-code platforms or to government solutions generally — copilots, agentic automation, generative AI for case management or citizen services, AI-assisted decisioning, fraud/risk detection, document processing, chatbots — in eJustice, Social Protection, PFM, or M&E contexts
    - Analyst commentary (Gartner, Forrester, IDC) when available
    - Development-bank/donor sources (World Bank, UN agencies, Asian Development Bank, EU) — tenders, project awards, publications related to these systems, since these bodies fund much of this work
-   Frame relevance from the perspective of competitive intelligence for Synergy International Systems, a company that builds the IDM platform (eJustice/eCase, Social Protection, PFM, and M&E solutions) for governments.
+   Frame relevance from the perspective of a government software vendor that builds eJustice/case-management, Social Protection, PFM, and M&E solutions, tracking the competitive landscape in these verticals.
 
 3. FILTER: Discard anything already listed in reported-history.md (match by source URL or clearly the same story). Discard generic/recycled content, opinion pieces without real news value, or anything not clearly tied to low-code/no-code platforms in a government context. Keep only genuinely new, notable items.
 
