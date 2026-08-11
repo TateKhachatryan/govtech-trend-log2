@@ -27,4 +27,13 @@ fi
     --allowedTools "WebSearch Bash Read Write" \
     --output-format text
   echo "=== Run finished: $(date) (exit code $?) ==="
+
+  echo "--- Syncing to GitHub ---"
+  git add reported-history.md execution-log.md
+  if git diff --cached --quiet; then
+    echo "Nothing changed, skipping commit/push."
+  else
+    git commit -m "Auto-update: $(date +%Y-%m-%d\ %H:%M)"
+    git push origin main
+  fi
 } >> "$RUN_LOG" 2>&1
