@@ -183,3 +183,11 @@
 - Outcome: "nothing notable" message sent.
 - Slack webhook response: success, HTTP 200.
 - Errors: none.
+
+## Run: 2026-08-13
+- Search window: normal 24-48h (reported-history.md already existed, last entry 2026-08-11).
+- Searched: low-code/no-code govtech platforms (Appian, Pega, OutSystems, Mendix, ServiceNow, Microsoft Power Platform, Newgen, OpenText) and AI features across eJustice, Social Protection, PFM, M&E; analyst commentary (Gartner/Forrester/IDC); donor sources (World Bank, ADB, EU, UN) for tenders/publications.
+- Candidates found: several (e.g. Appian public-sector AI survey, ServiceNow Otto launch, Microsoft Power Platform Copilot updates, ADB digital transformation strategy, World Bank Armenia court case-management RFP, Appian-Pega lawsuit news) but all were either already covered in reported-history.md, more than 48h/weeks old (from April-July 2026), generic/recurring analyst commentary, or not clearly tied to low-code/no-code govtech (e.g. litigation news). 0 survived filtering as genuinely new and notable.
+- Outcome: "nothing notable" message sent.
+- Slack webhook response: HTTP 200, body "ok" (success).
+- Errors: none.
