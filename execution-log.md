@@ -209,3 +209,13 @@
 - Survived filtering: 0. Outcome: "nothing notable" message sent.
 - Slack webhook response: HTTP 200, body "ok" — success.
 - Anomaly: the Bash tool's default sandbox blocked outbound network access (DNS resolution timeout) for the initial curl attempt; had to disable sandbox for the network calls to succeed. This included one extra throwaway connectivity-test POST to the webhook (body: "connectivity test - ignore") before the real digest was sent, to confirm the sandbox was the cause. Worth investigating for future runs if this recurs outside the normal cron wrapper.
+
+## Run: 2026-08-18
+
+- **Timestamp:** 2026-08-18 (local run)
+- **Search summary:** reported-history.md existed (last entry 2026-08-11), so used normal 24-48h window. Ran 8 web searches covering: general low-code/no-code govtech news; AI/generative AI in eJustice case management; AI in social protection/welfare (World Bank/UN); AI in public financial management (PFM); named-vendor (Appian/Pega/ServiceNow/OutSystems/Mendix) government AI announcements; social-protection tenders/awards; M&E AI platforms; Gartner/Forrester low-code AI government reports; plus follow-up date checks on two promising leads (UK MoJ "AI tech ambition" release, FedScoop court AI article).
+- **Candidates found:** ~10 items surfaced (market-size/trend blog posts, vendor comparison articles, evergreen M&E tool listings, World Bank WDR2026 background material already in history, a UK MoJ AI courts press release, a FedScoop courts-AI article).
+- **Survived filtering:** 0 — UK MoJ release dated 2026-06-09 and FedScoop article dated 2025-05-01, both well outside the 24-48h window; remaining candidates were generic/evergreen market content or already-reported stories (World Bank WDR2026, Pega FedRAMP items).
+- **Outcome:** "Nothing notable" message sent.
+- **Slack webhook response:** HTTP 200, body "ok" — success.
+- **Errors:** none.
