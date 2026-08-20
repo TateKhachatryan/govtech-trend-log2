@@ -219,3 +219,14 @@
 - **Outcome:** "Nothing notable" message sent.
 - **Slack webhook response:** HTTP 200, body "ok" — success.
 - **Errors:** none.
+
+## Run: 2026-08-20
+
+- **Timestamp:** 2026-08-20 12:01 (local run)
+- **History file status:** reported-history.md existed (13 lines, last entry 2026-08-11) — used normal ~24-48h search window, not first-run baseline window.
+- **Search scope:** Low-code/no-code govtech platforms (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow, Newgen) and AI features in eJustice, Social Protection, PFM, and M&E government solutions; also checked World Bank/IMF/UN/ADB/EU donor sources and analyst commentary (Gartner/Forrester).
+- **Candidates found:** Several items surfaced (ServiceNow/Microsoft AI agent governance integration, UK Cabinet Office Future Civil Service AI consultancy contract, UK public-sector AI procurement spend report, World Bank GovTech AI Bootcamp call for applications, India Supreme Court AI chatbot, Croatia court anonymization tool, IMF/OECD PFM-AI commentary) but all were either already substantively covered in prior digests, dated well outside the 24-48h window (April–June 2026), or too generic/not clearly tied to low-code/no-code platforms or the four target verticals to count as genuinely new and notable.
+- **Survived filtering:** 0 of ~10 candidates reviewed.
+- **Outcome:** "Nothing notable" message sent.
+- **Slack webhook response:** HTTP 200, body "ok" — success.
+- **Errors:** None.
