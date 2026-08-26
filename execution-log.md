@@ -241,3 +241,14 @@
 - **Outcome:** "Nothing notable" message sent.
 - **Slack webhook response:** HTTP 200, body "ok" — success.
 - **Errors:** None.
+
+## Run: 2026-08-26
+
+- **Timestamp:** 2026-08-26 (local run)
+- **History file status:** reported-history.md existed (last entry 2026-08-11) — used normal 24-48h search window, not first-run baseline window.
+- **Search scope:** General low-code/no-code govtech platform news (Appian, Pega, OutSystems, Mendix, Newgen, ServiceNow, Microsoft Power Platform); AI features in eJustice case management, Social Protection, PFM, and M&E government solutions; analyst commentary (Gartner/Forrester); World Bank/IMF/ADB/UN/EU donor sources; date-targeted queries for Aug 24-26, 2026 news.
+- **Candidates found:** ~10 (Kerala-SAS social welfare AI partnership, ServiceNow/Microsoft Agent 365 governance integration, Pega Customer Engagement Studio launch, UK HMRC £657M low-code contracts, Newgen Forrester DPA Landscape Q3 2026 recognition, World Bank Armenia court case-management tender (dated Jul 2025), various evergreen low-code/AI market-trend articles, India DPI-AI cooperation agreements).
+- **Survived filtering:** 0 of ~10 — all were either dated well outside the 24-48h window (Jul 2025-Aug 19, 2026), already substantively covered in reported-history.md or prior digests (Kerala-SAS, ServiceNow/Microsoft, Newgen Forrester), or generic/evergreen market commentary not clearly tied to a specific new development.
+- **Outcome:** "Nothing notable" message sent.
+- **Slack webhook response:** HTTP 200, body "ok" — success.
+- **Errors:** None.
