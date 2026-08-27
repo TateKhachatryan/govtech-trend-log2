@@ -252,3 +252,14 @@
 - **Outcome:** "Nothing notable" message sent.
 - **Slack webhook response:** HTTP 200, body "ok" — success.
 - **Errors:** None.
+
+## Run: 2026-08-27
+
+- **Timestamp:** 2026-08-27 12:02 (local run)
+- **History file status:** reported-history.md existed (last entry 2026-08-11) — used normal 24-48h search window, not first-run baseline window.
+- **Search scope:** Low-code/no-code govtech platforms (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow, Newgen); AI features in eJustice case management, Social Protection, PFM, and M&E government solutions; analyst commentary; World Bank/IMF/ADB/UN/EU donor sources and tenders; date-targeted queries for Aug 25-27, 2026 news; judiciary/court AI pilots.
+- **Candidates found:** ~6 (Appian public-sector AI adoption survey, ServiceNow Action Fabric AI-agent integration, Newgen IDC MarketScape recognition, UAE fully-integrated AI judicial platform launch, IMF/World Bank PFM-AI and social-protection commentary, US federal judiciary case-management modernization).
+- **Survived filtering:** 0 of ~6 — all were either dated well outside the 24-48h window (June-July 2026), already substantively covered in reported-history.md or prior digests (Newgen IDC MarketScape, ServiceNow/Microsoft AI agent work), or generic/evergreen analyst commentary not tied to a specific new development.
+- **Outcome:** "Nothing notable" message sent.
+- **Slack webhook response:** HTTP 200, body "ok" — success.
+- **Errors:** None.
