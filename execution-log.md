@@ -263,3 +263,14 @@
 - **Outcome:** "Nothing notable" message sent.
 - **Slack webhook response:** HTTP 200, body "ok" — success.
 - **Errors:** None.
+
+## Run: 2026-08-28
+
+- **Timestamp:** 2026-08-28 12:0x (local run)
+- **History file status:** reported-history.md existed (last entry 2026-08-11) — used normal 24-48h search window, not first-run baseline window.
+- **Search scope:** Low-code/no-code govtech platforms (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow, Newgen); AI features in eJustice case management, Social Protection, PFM, and M&E government solutions; analyst commentary (Gartner/Forrester); World Bank/IMF/ADB/UN/EU donor sources; date-targeted queries for Aug 26-28, 2026 news; GSA/Anthropic federal AI policy context; judiciary/court AI pilots.
+- **Candidates found:** ~9 (Pega Responsible AI/Customer Engagement Studio GA (Aug 18), GSA Anthropic integration removal deadline Aug 27 (federal AI policy, not low-code/vertical-specific), IBM AI GovTech Innovation Center Lucknow launch (Feb 2026), Newgen DPA Landscape Q3 2026 recognition, Kerala-SAS social welfare AI partnership (Aug 13), Microsoft Power Platform Aug feature update (Security agent in Power Pages, Power Automate GitHub/Claude Code CLI plugin), US federal judiciary CMM pilot courts, California Learned Hand AI court clerk pilot, generic low-code/AI market trend and predictions articles).
+- **Survived filtering:** 0 of ~9 — all were either dated well outside the 24-48h window (Feb-Aug 18, 2026), already substantively covered in reported-history.md or prior digests (Newgen DPA Landscape, Kerala-SAS, Pega Customer Engagement Studio, Microsoft Power Platform Aug update), not clearly tied to the four target verticals (GSA/Anthropic policy story is federal AI-model access politics, not a low-code platform or vertical-specific AI feature), or generic/evergreen commentary.
+- **Outcome:** "Nothing notable" message sent.
+- **Slack webhook response:** HTTP 200, body "ok" — success.
+- **Errors:** None.
