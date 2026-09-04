@@ -10,3 +10,5 @@
 2026-08-11 | Pega expands FedRAMP Class D certification for Pega Cloud for Government | https://www.pega.com/about/news/press-releases/pega-expands-fedramp-class-d-certified-capabilities-pega-cloud-government
 2026-08-11 | Pega named a Leader in The Forrester Wave: AI Platforms, Q3 2026 | https://www.pega.com/about/news/press-releases/pega-named-leader-ai-platforms-independent-research-firm
 2026-08-11 | Microsoft ships new AI agent governance and no-code AI features in Power Platform (Aug 2026 update) | https://www.microsoft.com/en-us/power-platform/blog/2026/08/06/whats-new-in-power-platform-july-august-2026-feature-update/
+2026-09-04 | Abu Dhabi launches world's first integrated AI judicial platform | https://www.khaleejtimes.com/uae/abu-dhabi-first-ai-judicial-platform-september-2026
+2026-09-04 | US Social Security Administration issues RFI to accelerate agency-wide agentic AI strategy | https://fedscoop.com/social-security-administration-rfi-agentic-ai/
