@@ -12,3 +12,6 @@
 2026-08-11 | Microsoft ships new AI agent governance and no-code AI features in Power Platform (Aug 2026 update) | https://www.microsoft.com/en-us/power-platform/blog/2026/08/06/whats-new-in-power-platform-july-august-2026-feature-update/
 2026-09-04 | Abu Dhabi launches world's first integrated AI judicial platform | https://www.khaleejtimes.com/uae/abu-dhabi-first-ai-judicial-platform-september-2026
 2026-09-04 | US Social Security Administration issues RFI to accelerate agency-wide agentic AI strategy | https://fedscoop.com/social-security-administration-rfi-agentic-ai/
+2026-09-09 | IMF's CARTAC hosts Caribbean regional workshop on AI-driven public financial management reform | https://www.nbcsvg.com/2026/09/07/cartac-underscores-ais-potential-to-transform-public-financial-management-in-the-caribbean/
+2026-09-09 | Indonesia's AI-powered GovTech data integration cuts misdirected social aid to under 10% | https://en.antaranews.com/news/430057/govtech-could-slash-misdirected-social-aid-to-below-10-percent-luhut
+2026-09-09 | Tria Federal joins Appian's Public Sector Partner Program for federal health/public safety missions | https://www.globenewswire.com/news-release/2026/09/08/3357683/0/en/tria-federal-joins-appian-public-sector-partner-program-to-power-federal-missions.html
