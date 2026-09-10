@@ -359,3 +359,12 @@
 - Slack webhook response: HTTP 200, body "ok" (success).
 - Temp payload file /tmp/trend-slack-message.txt deleted after send.
 - Errors: none. Note (factual, not investigated): last successful digest run appears to have been 2026-09-04; no entries for 2026-09-05 through 2026-09-08 in reported-history.md or above in this log for that gap — possible missed cron runs, not investigated per scope rules.
+
+## Run: 2026-09-10 12:0x (local)
+- History file existed (reported-history.md had entries through 2026-09-09) → used normal 24-48h search window, not first-run baseline window.
+- Searched: low-code/no-code govtech platform news, AI features in eJustice/Social Protection/PFM/M&E, vendor press releases (Appian, Pega, Microsoft Power Platform, ServiceNow, OutSystems, Mendix), analyst commentary (Gartner/Forrester), donor/dev-bank sources (World Bank, UN, ADB, EU).
+- Candidate items found: ~3 (Tria Federal joins Appian Public Sector Partner Program; US Army-Appian $500M Enterprise Agreement; Synisys/Synergy Indicata AI-powered M&E product page).
+- Survived filtering: 0. Tria Federal item was already in reported-history.md (2026-09-09). US Army-Appian deal dated back to January 15, 2026 — stale, not within window. Synisys item was an evergreen product page, not a news item. Remaining search results were generic/evergreen background content (guides, comparisons, predictions) with no fresh dateable news.
+- Outcome: "nothing notable" digest sent.
+- Slack webhook response: HTTP 200, body "ok" — success.
+- Errors: none.
