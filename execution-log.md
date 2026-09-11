@@ -368,3 +368,13 @@
 - Outcome: "nothing notable" digest sent.
 - Slack webhook response: HTTP 200, body "ok" — success.
 - Errors: none.
+
+## Run: 2026-09-11 12:0x (local)
+- History file existed (last entry 2026-09-09) → used normal 24-48h search window (Sept 9-11, 2026).
+- Searched: low-code/no-code govtech platform news (Appian, Pega, OutSystems, Mendix, Power Platform, ServiceNow, UiPath, Newgen) + AI features in eJustice/Social Protection/PFM/M&E; analyst commentary (Gartner/Forrester); donor/dev-bank sources (World Bank, IMF, ADB, UNDP, EU).
+- Candidate items found: ~15 explored across searches (ServiceNow "accelerates AI government reinvention" — actually dated Jul 22 2026, stale; UiPath on-prem agentic AI for public sector — dated May 5 2026, stale; EU EUNOMIA.AI/EuropAI GenAI-for-public-administration pilots — kicked off mid-July 2026, stale relative to window though notable in scope; Newgen IDC MarketScape mention — already in history from 2026-08-04; Appian-Army $500M contract — already flagged stale in a prior run; welfare-fraud AI poll — dated Sept 4, outside window; World Bank/ADB/UNDP tender searches turned up only older or generic evergreen listings, no fresh dated tenders in window).
+- Survived filtering: 1 genuinely new, dated Sept 10 2026, not in history: TechCrunch "AI agents are flooding public services with new requests" (agentic-flooding trend across judicial/social-service intake channels — Brazil judicial petitions, UK housing ombudsman, US CFPB, German parliamentary petitions).
+- Outcome: sent digest with 1 item (below the usual 3-6 target) — news in the 24-48h window was sparse and only one item cleared the notability/genuinely-new bar; opted for a thin digest rather than "nothing notable" since this item was distinctly relevant.
+- Slack webhook response: HTTP 200, body "ok" — success.
+- History file updated with the 1 new item.
+- Errors: none. Temp files (/tmp/trend-slack-message.txt, /tmp/slack-payload.json) created and deleted as expected.

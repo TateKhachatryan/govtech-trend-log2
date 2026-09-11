@@ -15,3 +15,4 @@
 2026-09-09 | IMF's CARTAC hosts Caribbean regional workshop on AI-driven public financial management reform | https://www.nbcsvg.com/2026/09/07/cartac-underscores-ais-potential-to-transform-public-financial-management-in-the-caribbean/
 2026-09-09 | Indonesia's AI-powered GovTech data integration cuts misdirected social aid to under 10% | https://en.antaranews.com/news/430057/govtech-could-slash-misdirected-social-aid-to-below-10-percent-luhut
 2026-09-09 | Tria Federal joins Appian's Public Sector Partner Program for federal health/public safety missions | https://www.globenewswire.com/news-release/2026/09/08/3357683/0/en/tria-federal-joins-appian-public-sector-partner-program-to-power-federal-missions.html
+2026-09-11 | AI agents overwhelming public-sector intake channels ("agentic flooding" trend, TechCrunch) | https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/
