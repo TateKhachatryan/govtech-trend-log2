@@ -388,3 +388,12 @@
 - Slack webhook response: HTTP 200, body "ok" — success.
 - reported-history.md: not updated (no new items).
 - Errors: none.
+
+## Run: 2026-09-17 (manual/interactive invocation)
+- History file existed (last entry 2026-09-11); used normal ~24-48h search window (extended slightly to cover since last run on 2026-09-15 per log).
+- Searched: low-code/no-code govtech vendor news (Appian, Pega, OutSystems, Mendix, Power Platform, ServiceNow), AI features across eJustice/Social Protection/PFM/M&E, analyst commentary, donor/dev-bank sources (World Bank, IMF, ADB, UN, UNGM tenders).
+- Candidates surfaced: ~10+ (CCJ AI task force case studies, SSA OIG fraud remarks, ServiceNow 50-states PR [dated Jul 22, too old], Appian $500M Army deal [dated Jan 2026, too old], Croatia ANON tool [not newly dated], Singapore GovTech agentic portal [dated May 2026, too old], HMRC/Atos low-code deal [dated Aug 20, too old], various generic 2026 comparison/listicle content [discarded as non-news]).
+- Survived filtering: 2 genuinely new, well-sourced items within window (Council on Criminal Justice AI case studies, Sept 16; SSA OIG fraud comments, Sept 15).
+- Outcome: sent digest with 2 items (fewer than the usual 3-6 target; no other genuinely new/notable items found in this window after filtering out stale or off-topic results).
+- Slack webhook response: HTTP 200, body "ok" (success).
+- No errors encountered.

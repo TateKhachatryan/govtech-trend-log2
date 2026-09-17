@@ -16,3 +16,5 @@
 2026-09-09 | Indonesia's AI-powered GovTech data integration cuts misdirected social aid to under 10% | https://en.antaranews.com/news/430057/govtech-could-slash-misdirected-social-aid-to-below-10-percent-luhut
 2026-09-09 | Tria Federal joins Appian's Public Sector Partner Program for federal health/public safety missions | https://www.globenewswire.com/news-release/2026/09/08/3357683/0/en/tria-federal-joins-appian-public-sector-partner-program-to-power-federal-missions.html
 2026-09-11 | AI agents overwhelming public-sector intake channels ("agentic flooding" trend, TechCrunch) | https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/
+2026-09-17 | Council on Criminal Justice releases AI case studies for policing, public defense and corrections | https://counciloncj.org/national-task-force-releases-case-studies-on-artificial-intelligence-use-in-policing-public-defense-and-corrections/
+2026-09-17 | SSA Inspector General says AI "is changing the game" for benefits fraud | https://www.nextgov.com/artificial-intelligence/2026/09/ai-changing-game-fraud-threats-and-prevention-efforts-ssa-oig-official-says/416033/
