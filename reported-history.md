@@ -18,3 +18,6 @@
 2026-09-11 | AI agents overwhelming public-sector intake channels ("agentic flooding" trend, TechCrunch) | https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/
 2026-09-17 | Council on Criminal Justice releases AI case studies for policing, public defense and corrections | https://counciloncj.org/national-task-force-releases-case-studies-on-artificial-intelligence-use-in-policing-public-defense-and-corrections/
 2026-09-17 | SSA Inspector General says AI "is changing the game" for benefits fraud | https://www.nextgov.com/artificial-intelligence/2026/09/ai-changing-game-fraud-threats-and-prevention-efforts-ssa-oig-official-says/416033/
+2026-09-18 | Salesforce expands Missionforce with new AI capabilities and an OpenAI partnership | https://www.nextgov.com/acquisition/2026/09/salesforce-expands-missionforce-new-ai-capabilities-openai-partnership/416031/
+2026-09-18 | Indonesia to launch nationwide digital social protection system for 50 million citizens | https://en.antaranews.com/news/430819/indonesia-prepares-digital-aid-network-for-50-million-citizens
+2026-09-18 | EU kicks off three GenAI pilots for public administrations under the Digital Europe Programme | https://digital-strategy.ec.europa.eu/en/news/new-genai-pilots-public-administrations

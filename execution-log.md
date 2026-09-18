@@ -397,3 +397,14 @@
 - Outcome: sent digest with 2 items (fewer than the usual 3-6 target; no other genuinely new/notable items found in this window after filtering out stale or off-topic results).
 - Slack webhook response: HTTP 200, body "ok" (success).
 - No errors encountered.
+
+## Run: 2026-09-18 (interactive invocation)
+- History file existed (last entry 2026-09-17) -> used normal ~24-48h search window.
+- Searched: low-code/no-code govtech vendor news (Appian, Pega, OutSystems, Mendix, Power Platform, ServiceNow, Salesforce), AI features across eJustice/Social Protection/PFM/M&E, analyst commentary (Gartner/Forrester), donor/dev-bank sources (World Bank, IMF, ADB, EU, UN/UNGM).
+- Candidates surfaced: ~15+ across ~14 searches (ServiceNow Autonomous Workforce/Government Forum PR — dated Mar/May 2026, too old; OutSystems Agentic Systems Engineering — Q2 2026, too old; CivicPlus Innovation Labs — Sept 2, too old; National Fraud Detection Center follow-up (PJ Media, Sept 17) — low-quality source and thematically overlapping with already-reported SSA OIG fraud item, discarded; UNDP Fiji legal-aid case management system — undated/stale; Microsoft Power Platform Sept 2026 update — evergreen release-wave content, no single new item; various evergreen/listicle low-code comparison and M&E-AI explainer content — discarded as non-news).
+- Survived filtering: 3 genuinely new, well-sourced items within window: Salesforce Missionforce + OpenAI partnership (Sept 16); Indonesia nationwide digital social protection system for 50M citizens (announced Sept 17); EU GenAI-for-public-administrations pilots kickoff (stakeholder meeting Sept 14, EC news page).
+- Outcome: sent digest with 3 items.
+- Slack webhook response: HTTP 200, body "ok" (success).
+- reported-history.md updated with the 3 new items.
+- Temp file /tmp/trend-slack-message.txt and /tmp/slack-response.txt created and deleted as expected.
+- Errors: none.
