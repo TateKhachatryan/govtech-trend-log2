@@ -408,3 +408,14 @@
 - reported-history.md updated with the 3 new items.
 - Temp file /tmp/trend-slack-message.txt and /tmp/slack-response.txt created and deleted as expected.
 - Errors: none.
+
+## Run: 2026-09-22 (interactive invocation)
+- History file existed (last entry 2026-09-18); note a multi-day gap in cron runs (cron-run.log shows last successful run was 2026-09-18, no entries for 2026-09-19/20/21) -> used normal ~24-48h search window per instructions, but extended searches to cover back through 2026-09-18 to avoid missing items during the gap. Gap noted factually only, not investigated further.
+- Searched: low-code/no-code govtech vendor news (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow, Salesforce), AI features across eJustice/Social Protection/PFM/M&E, analyst commentary, donor/dev-bank sources (World Bank, IMF, ADB, UN/UNGM, EU).
+- Candidates surfaced: ~12+ across ~14 searches (Power Platform Sept 2026 feature update — evergreen release content, no single new government-specific item; ServiceNow/Salesforce government AI deals — dated Jul 2026, too old; OpenGov Public Service Platform/OG Assist — dated Apr 2026, too old; World Bank PFM/M&E AI strategy pages — evergreen, not news; various listicle/comparison low-code content — discarded as non-news).
+- Survived filtering: 2 genuinely new, well-sourced items: US federal Judiciary CM/ECF case-management modernization + AI use policy progress (uscourts.gov, Sept 17); Microsoft 365 G7 "Agent 365" AI agent governance tier for government, GCC sales starting Oct 1 (Microsoft Cloud Blog, Sept 15).
+- Outcome: sent digest with 2 items.
+- Slack webhook response: HTTP 200, body "ok" (success).
+- reported-history.md updated with the 2 new items.
+- Temp files /tmp/trend-slack-message.txt and /tmp/slack-resp.txt created and deleted as expected.
+- Errors: none.
