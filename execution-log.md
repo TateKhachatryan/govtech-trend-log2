@@ -419,3 +419,12 @@
 - reported-history.md updated with the 2 new items.
 - Temp files /tmp/trend-slack-message.txt and /tmp/slack-resp.txt created and deleted as expected.
 - Errors: none.
+
+## Run: 2026-09-24 (interactive)
+- History existed (last entry 2026-09-22) → used normal 24-48h search window (covering the gap back to 9/22).
+- Searched: low-code/no-code govtech vendors (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow), AI features in eJustice/Social Protection/PFM/M&E, analyst commentary (Gartner/Forrester), and donor sources (World Bank, EU, ADB, UN/UNGM tenders).
+- Candidates found: ~10 items surfaced (Appian public-sector AI survey, ServiceNow OneGov/Autonomous Workforce, EU GenAI pilots kickoff, ADB 2026-2030 digital strategy, Illinois AI Cabinet executive order, Power Platform Sept 2026 update, World Bank/ODI PFM conference, various M&E AI tooling roundups, SSA fraud follow-up).
+- Survived filtering: 0 — all were either duplicates/follow-ups of stories already in reported-history.md (EU GenAI pilots, SSA fraud, judiciary CM/ECF), predate the search window (Appian survey Jun 2026, ADB strategy Jun 2026), or not clearly tied to low-code/no-code platforms in a government context (Illinois AI Cabinet is general AI governance, not platform-specific).
+- Outcome: "nothing notable" digest sent.
+- Slack webhook response: HTTP 200, body "ok" — success.
+- No errors encountered. reported-history.md left unchanged (no items to append).
