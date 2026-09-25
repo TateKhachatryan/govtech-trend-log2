@@ -428,3 +428,13 @@
 - Outcome: "nothing notable" digest sent.
 - Slack webhook response: HTTP 200, body "ok" — success.
 - No errors encountered. reported-history.md left unchanged (no items to append).
+
+## Run: 2026-09-25 (interactive)
+- History existed (last entry 2026-09-22) → used normal 24-48h search window (covering back to 9/22-9/23, given prior run on 9/24 already found nothing notable).
+- Searched: low-code/no-code govtech vendors (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow, Nucleus Research LCAP matrix), AI features in eJustice/Social Protection/PFM/M&E, analyst commentary (Gartner/Forrester), donor sources (World Bank/ADB/UN/UNGM tenders, GovTech Innovation Challenge).
+- Candidates found: ~15+ items surfaced across ~20 searches (ADB $650M Indonesia ADIL fiscal/digital reform program — dated Sept 17, too old; Nucleus Research 2026 LCAP Technology Value Matrix — Sept 8, too old and not government-specific; World Bank/SECO/Trust Valley GovTech Innovation Challenge with Morocco IGF for AI-powered audit tools — launched June/July 2026, too old; OpenAI GSA OneGov 2.0 $0-fee deal for federal/state/local/tribal governments — Sept 10, too old and not platform/vertical-specific; Microsoft Copilot government commit-now pricing — Sept 16, too old; OpenAI Daybreak cyber-defense extension to Ukraine govt — Sept 23 but cybersecurity-focused, not tied to the four verticals; OutSystems Agentic Systems Platform, Mendix public-sector roundtable — both stale/earlier 2026; various evergreen low-code/AI listicle and explainer content — discarded as non-news).
+- Survived filtering: 0 — all candidates were either outside the search window, duplicates/follow-ups of previously reported stories, or not clearly tied to low-code/no-code platforms or the four target verticals (eJustice, Social Protection, PFM, M&E).
+- Outcome: "nothing notable" digest sent.
+- Slack webhook response: HTTP 200, body "ok" — success.
+- reported-history.md left unchanged (no items to append).
+- Errors: none. Temp files (/tmp/trend-slack-message.txt, /tmp/slack-resp.txt) created and deleted as expected.
