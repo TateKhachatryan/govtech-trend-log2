@@ -23,3 +23,5 @@
 2026-09-18 | EU kicks off three GenAI pilots for public administrations under the Digital Europe Programme | https://digital-strategy.ec.europa.eu/en/news/new-genai-pilots-public-administrations
 2026-09-22 | US federal Judiciary fast-tracks CM/ECF case management overhaul and sets AI use policy | https://www.uscourts.gov/data-news/judiciary-news/2026/09/17/judiciary-cites-progress-case-management-property-authority-and-ai
 2026-09-22 | Microsoft launches Microsoft 365 G7 with "Agent 365" AI agent governance tier for government | https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/
+2026-09-28 | HMRC awards Salesforce a ~£2.0B, 10-year CRM contract covering case management and AI | https://www.techmarketview.com/ukhotviews/archive/2026/09/10/salesforce-set-for-2bn-hmrc-crm-deal
+2026-09-28 | UNDP's Independent Evaluation Office launches phase two of AIDA, its AI-powered evaluation platform | https://www.undp.org/evaluation/press-releases/new-analytical-capabilities-aida

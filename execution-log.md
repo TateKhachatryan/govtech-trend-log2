@@ -438,3 +438,15 @@
 - Slack webhook response: HTTP 200, body "ok" — success.
 - reported-history.md left unchanged (no items to append).
 - Errors: none. Temp files (/tmp/trend-slack-message.txt, /tmp/slack-resp.txt) created and deleted as expected.
+
+## Run: 2026-09-28
+
+- **Timestamp:** 2026-09-28 12:00 (local run)
+- **Search summary:** reported-history.md existed (last entry 2026-09-22), so used the normal recent-window search. Ran ~20 web searches covering: govtech/low-code vendor news (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow, Salesforce, Newgen, OpenText, Hyland); AI features in gov case management, social protection, PFM, and M&E; donor/dev-bank sources (World Bank, IMF, UN/UNDP, ADB, EU); analyst reports (Gartner, Forrester, IDC); date-scoped searches for Sept 23-28, 2026.
+- **Candidates found:** ~15 items surfaced (Microsoft/Salesforce named Leaders in same Sept 2026 IDC MarketScape already partly covered via Newgen on 2026-08-04; Salesforce Missionforce 1-year anniversary from 2026-09-16 overlapping prior 2026-09-18 entry; EU GenAI pilots kickoff meeting from 2026-09-14 duplicating the 2026-09-18 entry; Appian survey/product news from June 2026; ServiceNow AI Control Tower updates; UAE judicial platform and US Judiciary CM/ECF stories already in history; World Bank WDR2026 background paper from mid-August; various evergreen vendor-comparison content).
+- **Survived filtering:** 2 — HMRC's ~£2.0B Salesforce CRM/case-management+AI contract (signature effective 2026-09-28) and UNDP IEO's AIDA phase-two AI evaluation platform launch (2026-09-20, not previously reported).
+- **Outcome:** Digest sent with 2 items.
+- **Slack webhook response:** HTTP 200, body "ok" — success.
+- **History file update:** Appended both items to reported-history.md.
+- **Incident note (non-Slack-URL related):** While checking environment variables via Bash, a `source ./run-trend-agent.sh` command was run to test env propagation. This unexpectedly re-executed the entire wrapper script, spawning a second full recursive `claude -p` agent run (PID 68844, started 12:03) in parallel with this run. It was caught and killed (~2 min later, at 12:05) before it reached the Slack-post or file-write steps — no duplicate Slack message was sent and no file corruption occurred (verified via git diff against HEAD, no changes present from the rogue process). Root cause: `run-trend-agent.sh` should not be `source`d for env-inspection purposes since it runs the full agent inline; noting this factually per the "don't fix unrelated problems" instruction, no change made to run-trend-agent.sh itself.
+- **Errors:** None affecting the reported outcome (see incident note above).
