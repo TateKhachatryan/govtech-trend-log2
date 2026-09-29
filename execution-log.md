@@ -450,3 +450,13 @@
 - **History file update:** Appended both items to reported-history.md.
 - **Incident note (non-Slack-URL related):** While checking environment variables via Bash, a `source ./run-trend-agent.sh` command was run to test env propagation. This unexpectedly re-executed the entire wrapper script, spawning a second full recursive `claude -p` agent run (PID 68844, started 12:03) in parallel with this run. It was caught and killed (~2 min later, at 12:05) before it reached the Slack-post or file-write steps — no duplicate Slack message was sent and no file corruption occurred (verified via git diff against HEAD, no changes present from the rogue process). Root cause: `run-trend-agent.sh` should not be `source`d for env-inspection purposes since it runs the full agent inline; noting this factually per the "don't fix unrelated problems" instruction, no change made to run-trend-agent.sh itself.
 - **Errors:** None affecting the reported outcome (see incident note above).
+
+## Run: 2026-09-29
+
+- **Timestamp:** 2026-09-29 12:00 (local run)
+- **History file status:** reported-history.md existed (last entry 2026-09-28) → used normal 24-48h search window.
+- **Search summary:** Ran ~15 web searches across low-code/no-code govtech vendors (Appian, Pega, Mendix, OutSystems, Power Platform, ServiceNow, Newgen, Salesforce), AI-in-gov features (agentic AI, copilots, fraud detection, case management), and donor/dev-bank sources (World Bank, ADB, UN, EU) across eJustice, Social Protection, PFM, and M&E verticals.
+- **Candidates found vs. survived filtering:** ~12 candidate stories surfaced; 11 discarded as duplicates of items already in reported-history.md (Abu Dhabi judicial AI platform, Salesforce Missionforce/OpenAI, Microsoft 365 G7/Agent 365) or as stale (>1-2 weeks old: UN System Data Commons, AfDB/UNDP AI 10 Billion Initiative from Feb 2026, VA-Salesforce $1.6B deal from July 2026) or too generic/off-vertical (EY/SolarWinds AI governance-gap survey, NASCIO agentic AI trend, GovWare 2026 cybersecurity conference). 1 item survived: ADB's $650M Indonesia ADIL program funding a new national fiscal-data digital platform (PFM vertical, donor-funded).
+- **Outcome:** Digest sent with 1 notable item (fewer than the usual 3-6 target, but no other items met the notability/non-duplicate bar today).
+- **Slack webhook response:** HTTP 200, body "ok" — success.
+- **Errors:** None.

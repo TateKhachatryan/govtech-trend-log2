@@ -25,3 +25,4 @@
 2026-09-22 | Microsoft launches Microsoft 365 G7 with "Agent 365" AI agent governance tier for government | https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/
 2026-09-28 | HMRC awards Salesforce a ~£2.0B, 10-year CRM contract covering case management and AI | https://www.techmarketview.com/ukhotviews/archive/2026/09/10/salesforce-set-for-2bn-hmrc-crm-deal
 2026-09-28 | UNDP's Independent Evaluation Office launches phase two of AIDA, its AI-powered evaluation platform | https://www.undp.org/evaluation/press-releases/new-analytical-capabilities-aida
+2026-09-29 | ADB approves $650M program to modernize Indonesia's fiscal management and digital governance | https://english.news.cn/20260917/38455b8146d540228b52c65c02b789a3/c.html
