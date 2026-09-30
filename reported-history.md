@@ -26,3 +26,4 @@
 2026-09-28 | HMRC awards Salesforce a ~£2.0B, 10-year CRM contract covering case management and AI | https://www.techmarketview.com/ukhotviews/archive/2026/09/10/salesforce-set-for-2bn-hmrc-crm-deal
 2026-09-28 | UNDP's Independent Evaluation Office launches phase two of AIDA, its AI-powered evaluation platform | https://www.undp.org/evaluation/press-releases/new-analytical-capabilities-aida
 2026-09-29 | ADB approves $650M program to modernize Indonesia's fiscal management and digital governance | https://english.news.cn/20260917/38455b8146d540228b52c65c02b789a3/c.html
+2026-09-30 | White House launches AI-powered "America.gov" citizen-services portal (Gemini + Grok) | https://www.nextgov.com/digital-government/2026/09/white-house-launches-ai-powered-americagov-digital-front-door/416303/
