@@ -472,3 +472,12 @@
 - **History file update:** Appended the 1 new item to reported-history.md.
 - **Temp files:** /tmp/trend-slack-message.txt, /tmp/slack-payload.json, /tmp/slack-resp.txt created and deleted as expected.
 - **Errors:** None.
+
+## Run: 2026-10-01 (manual/interactive)
+- History file existed; used normal 24-48h search window.
+- Searched: low-code/no-code govtech platform news (Appian, Pega, OutSystems, Mendix, Power Platform, ServiceNow, Salesforce), AI features in eJustice/Social Protection/PFM/M&E, analyst reports (Gartner/Forrester/IDC), and donor/dev-bank sources (World Bank, ADB, UN, EU).
+- Candidates surfaced: America.gov launch (already in history, skipped), DWP data-warehouse cloud migration (Credera, not clearly AI/low-code, skipped), IDC ProductScape companion doc (same underlying report as Aug-4 entry, skipped as duplicate), Appian US Army $500M EA (dated Jan 2026, too old, skipped), Appian ProcureSight AI integration (dated 2024, skipped), various UN/UNDP case-management RFPs (outside 24-48h window, skipped).
+- Survived filtering: 2 items — Microsoft 365 G7/Agent 365 GCC general-availability date (Oct 1), DWP/UBDS Digital AI-agent governance contract (Sept 28, social protection vertical).
+- Outcome: sent digest (not "nothing notable").
+- Slack webhook response: HTTP 200, body "ok" (success).
+- Errors: none.
