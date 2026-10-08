@@ -29,3 +29,4 @@
 2026-09-30 | White House launches AI-powered "America.gov" citizen-services portal (Gemini + Grok) | https://www.nextgov.com/digital-government/2026/09/white-house-launches-ai-powered-americagov-digital-front-door/416303/
 2026-10-01 | Microsoft 365 G7 and Agent 365 go on sale for U.S. government (GCC) | https://www.directionsonmicrosoft.com/microsoft-to-deliver-m365-g7-for-government-users-on-oct-1/
 2026-10-01 | DWP contracts UBDS Digital to govern Copilot/AI agents in Digital Workplace | https://www.publictechnology.net/2026/09/28/society-and-welfare/dwp-signs-700k-deal-to-support-secure-and-consistent-approach-to-ai-agents/
+2026-10-08 | OutSystems launches Agent Experience, opening its low-code platform to any AI coding agent with built-in governance for regulated sectors | https://www.outsystems.com/news/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent
