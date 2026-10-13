@@ -35,3 +35,4 @@
 2026-10-12 | GSA finalizes government-wide rule on AI/LLM handling of federal data | https://www.govexec.com/technology/2026/10/gsa-memo-set-ai-specific-acquisition-rules/416400/
 2026-10-12 | Microsoft rolls out "Work IQ" grounding Copilot agents in Power Platform and Dynamics 365 data | https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/25/work-iq-business-and-workplace-intelligence-in-the-flow-of-work/
 2026-10-12 | Pakistan Supreme Court briefs bar on new AI "Smart Judicial Assistant" | https://www.supremecourt.gov.pk/supreme-court-briefs-bar-on-ai-powered-smart-judicial-assistant-and-significant-progress-in-case-disposal-and-backlog-reduction-09-oct-2026/
+2026-10-13 | UK Courts & Tribunals Judiciary publishes formal AI Position Statement | https://www.judiciary.uk/guidance-and-resources/position-statement-on-the-judicial-use-of-artificial-intelligence-ai/
