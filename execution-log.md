@@ -536,3 +536,12 @@
 - Outcome: sent digest with 1 item (did not pad with weak/duplicate items to hit the usual 3-6 range).
 - Slack webhook response: HTTP 200, body "ok" (success).
 - Errors: none. Temp payload file and response file deleted after send.
+
+## Run: 2026-10-14 12:00 (local)
+- History file existed (last entry 2026-10-13) → used normal 24-48h search window.
+- Searched: govtech/vendor news (Appian, Pega, Mendix, OutSystems, ServiceNow, Microsoft Power Platform) for AI/agentic features; social protection AI fraud/benefits news; PFM news from ADB/World Bank/IMF; M&E AI in evaluation; eJustice/court AI news; donor tenders (World Bank, UNDP, UNICEF, ADB).
+- Candidates found: ~10-12 (OutSystems Agent Experience follow-up article, Mendix agentic AI release, SSA deepfake fraud coverage, Google DeepMind/GovTech Singapore scam-detection model, Indonesia digital social protection launch update, ADB Indonesia Financial Market Deepening Program, Appian public sector AI survey, Pega CISO appointment, Treasury/GAO fraud AI report, federal judge AI-lawsuit dismissal).
+- Survived filtering: 0. Reasons: OutSystems/SSA-fraud/Indonesia-social-protection stories were continuations/duplicates of items already in reported-history.md; Mendix release and Appian survey were from Oct 2025/June 2026 respectively (stale, surfaced by search but out of window); ADB Indonesia program was capital-markets/fintech focused, not core PFM/case-management; Pega CISO appointment and GAO/Treasury report were off-topic or stale; DeepMind/GovTech Singapore scam-detection tool and the AI-lawsuit-dismissal story didn't clearly fit the four tracked verticals (eJustice, Social Protection, PFM, M&E) from a government case-management/low-code-platform competitive-intel angle.
+- Outcome: "nothing notable" message sent.
+- Slack webhook response: HTTP 200, body "ok" (success).
+- Errors: none.
