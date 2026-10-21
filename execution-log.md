@@ -572,3 +572,12 @@
 - Outcome: sent digest with 2 items (ServiceNow ToolSmith/AI Passport no-code AI agent tools; Microsoft Copilot Studio agent accounts + business process memory).
 - Slack webhook response: HTTP 200, body "ok" (success).
 - Errors: none.
+
+## Run: 2026-10-21 (manual/interactive invocation)
+- History file existed (last entry 2026-10-19), used normal 24-48h search window.
+- Searched: low-code/no-code govtech platforms (Appian, Pega, OutSystems, Mendix, Power Platform, ServiceNow, Salesforce) + AI features across eJustice, Social Protection, PFM, M&E; donor/dev-bank sources (World Bank, ADB, UN); analyst sources.
+- Candidates found: ~10 (World Bank Digital Strategy; Accenture/Google Gemini Launchpads; Google Gemini for Government launch; Maryland/Anthropic SNAP partnership — turned out to be older/already-circulated news, not within window; Indonesia digital social protection Nov 10 launch date — same story as 2026-09-18 history entry, discarded as duplicate; OECD agentic AI M&E study — published Sept 16, outside window, discarded; Thailand SSO/EWF — not a vendor/platform story, discarded; MoJ AI transcription report — overlaps with existing 2026-10-13 UK judiciary AI position statement entry, discarded as same theme/no new vendor news).
+- Survived filtering: 2 genuinely new, notable items (World Bank Digital Strategy; Google/Accenture Gemini for Government + Launchpads). Below the usual 3-6 target but no other candidates met the bar for genuine novelty/relevance after filtering.
+- Outcome: digest sent (2 items).
+- Slack webhook response: "ok", HTTP 200 (success).
+- Errors: none.
