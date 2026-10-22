@@ -581,3 +581,14 @@
 - Outcome: digest sent (2 items).
 - Slack webhook response: "ok", HTTP 200 (success).
 - Errors: none.
+
+## Run: 2026-10-22
+
+- **Timestamp:** 2026-10-22 12:00 local
+- **History file status:** reported-history.md existed → used normal ~24-48h search window.
+- **Searched:** low-code/no-code govtech vendor news (Appian, Mendix, OutSystems, ServiceNow, Pega, Microsoft Power Platform, Salesforce), AI features in eJustice/Social Protection/PFM/M&E gov solutions, analyst commentary (Gartner, Forrester), and donor/dev-bank sources (World Bank, ADB, UN agencies, EU).
+- **Candidates found:** ~12 (incl. Google Gemini for Government preview — dup of 2026-10-21 entry; Appian AI adoption survey — stale, from June 2026; ONE Data "Development Finance Observatory" AI platform — Oct 14, outside window and only tangentially govtech; Govra agentic AI for government tax work — Oct 8, outside window; 2026 Gartner Magic Quadrant for AI-Augmented Low-Code Application Platforms — published Sep 28, outside window; Indonesia digital social protection launch date slip to Nov 10 — same story as prior entries; Microsoft Power Platform Copilot Studio Oct updates — incremental, not clearly new vendor news; UNHCR/UNICEF AI case items — all stale, Aug 2025/Oct 8).
+- **Survived filtering:** 2 (ADB $100M Sri Lanka social protection program incl. digital case management/M&E upgrade; TTEC Digital GovEx AI Agent Suite — 40+ prebuilt AI agents for government CX on Google Cloud Gemini Enterprise).
+- **Outcome:** Digest sent (2 items; fewer than the usual 3-6 range — remaining candidates were either duplicates of prior entries or outside the search window/too stale to count as new).
+- **Slack webhook response:** HTTP 200, body "ok" — success.
+- **Errors:** none.
