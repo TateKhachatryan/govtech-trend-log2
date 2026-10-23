@@ -45,3 +45,5 @@
 2026-10-21 | Google Public Sector launches "Gemini for Government" (FedRAMP High), Accenture rolls out Gemini Launchpads for federal agencies | https://fedscoop.com/google-launches-gemini-for-government-services/
 2026-10-22 | ADB approves $100M Sri Lanka social protection program (digital platforms, case management, M&E) | https://www.ft.lk/front-page/ADB-approves-100-m-to-strengthen-social-protection-and-expand-economic-opportunities/44-798982
 2026-10-22 | TTEC Digital launches GovEx AI Agent Suite — 40+ prebuilt AI agents on Google Cloud Gemini Enterprise for government CX | https://www.globenewswire.com/news-release/2026/10/20/3385025/0/en/ttec-digital-unveils-40-ai-agents-on-google-cloud-gemini-enterprise-for-cx-to-help-modernize-government-experiences.html
+2026-10-23 | Pega named a Leader in The Forrester Wave: AppGen and Low-Code Platforms, Q4 2026 | https://www.pega.com/about/news/press-releases/pega-named-leader-appgen-and-low-code-platforms-independent-research-firm
+2026-10-23 | Azerbaijan launches AI-driven public finance digitization push (treasury anomaly detection, forecasting) | https://www.azernews.az/nation/265988.html

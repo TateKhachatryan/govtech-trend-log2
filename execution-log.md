@@ -592,3 +592,14 @@
 - **Outcome:** Digest sent (2 items; fewer than the usual 3-6 range — remaining candidates were either duplicates of prior entries or outside the search window/too stale to count as new).
 - **Slack webhook response:** HTTP 200, body "ok" — success.
 - **Errors:** none.
+
+## Run: 2026-10-23 (manual/interactive invocation)
+
+- **Timestamp:** 2026-10-23
+- **History file status:** reported-history.md existed (last entry 2026-10-22) → used normal ~24-48h search window.
+- **Searched:** low-code/no-code govtech vendor news (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow, Salesforce), AI features in eJustice/Social Protection/PFM/M&E gov solutions, analyst commentary (Forrester/Gartner/IDC), and donor/dev-bank sources (World Bank, ADB, UN agencies, EU).
+- **Candidates found:** ~12 (Pega named Leader in Forrester Wave: AppGen and Low-Code Platforms Q4 2026 — Oct 22, new report distinct from prior Aug-11 AI Platforms Wave entry; Azerbaijan AI-driven public finance digitization announcement — Oct 22 Baku conference; Mozambique PFM AI strategy 2026-2035 — published Oct 17, outside 24-48h window, discarded as stale; HMCTS Inner London Crown Court AI Case Readiness pilot coverage — same story as existing 2026-10-09 entry, discarded as duplicate; Indonesia Digital Perlinsos Nov 10 launch date confirmation — same program as 2026-09-18 entry, discarded as duplicate; World Bank Global AI and Digital Summit 2026 (Seoul) outcomes — same underlying story as existing 2026-10-21 World Bank Digital Strategy entry, discarded as duplicate; Appian public sector AI survey — stale, from June 2026; Pega FedRAMP High Gen AI status — stale, originally June 2025; UNDP AIDA/UNICEF AI evaluation items — no new announcement, general commentary only; EU GenAI pilots (EuropAI/EUNOMIA.AI/FLOODS&DROUGHTS) — started July 2026, no new update in window; ServiceNow/OutSystems contract searches — nothing new/government-specific found in window).
+- **Survived filtering:** 2 (Pega Forrester Wave AppGen Q4 2026 leader; Azerbaijan AI-driven public finance digitization push).
+- **Outcome:** Digest sent (2 items; fewer than the usual 3-6 range — remaining candidates were either duplicates of prior entries or outside the search window/too stale to count as new).
+- **Slack webhook response:** HTTP 200, body "ok" — success.
+- **Errors:** none. Temp Slack payload file (/tmp/trend-slack-message.txt) and response file deleted after posting.
