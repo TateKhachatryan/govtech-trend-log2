@@ -47,3 +47,5 @@
 2026-10-22 | TTEC Digital launches GovEx AI Agent Suite — 40+ prebuilt AI agents on Google Cloud Gemini Enterprise for government CX | https://www.globenewswire.com/news-release/2026/10/20/3385025/0/en/ttec-digital-unveils-40-ai-agents-on-google-cloud-gemini-enterprise-for-cx-to-help-modernize-government-experiences.html
 2026-10-23 | Pega named a Leader in The Forrester Wave: AppGen and Low-Code Platforms, Q4 2026 | https://www.pega.com/about/news/press-releases/pega-named-leader-appgen-and-low-code-platforms-independent-research-firm
 2026-10-23 | Azerbaijan launches AI-driven public finance digitization push (treasury anomaly detection, forecasting) | https://www.azernews.az/nation/265988.html
+2026-11-04 | AWS launches "Semarak AI Malaysia" national agentic-AI program for 445,000 government officers | https://press.aboutamazon.com/aws/2026/11/aws-launches-semarak-ai-malaysia-a-national-program-to-bring-ai-tools-to-government-officers-students-and-local-software-companies
+2026-11-04 | Abu Dhabi and OpenAI launch "Machine-Readable Government" AI compliance initiative | https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html
