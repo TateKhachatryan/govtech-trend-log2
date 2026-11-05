@@ -49,3 +49,6 @@
 2026-10-23 | Azerbaijan launches AI-driven public finance digitization push (treasury anomaly detection, forecasting) | https://www.azernews.az/nation/265988.html
 2026-11-04 | AWS launches "Semarak AI Malaysia" national agentic-AI program for 445,000 government officers | https://press.aboutamazon.com/aws/2026/11/aws-launches-semarak-ai-malaysia-a-national-program-to-bring-ai-tools-to-government-officers-students-and-local-software-companies
 2026-11-04 | Abu Dhabi and OpenAI launch "Machine-Readable Government" AI compliance initiative | https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html
+2026-11-05 | Vietnam rolls out nationwide "Civil Service AI Platform" across all ministries/provinces | https://dev.to/vuhung16au/vietnam-ai-llm-daily-briefing-nov-05-2026-130d
+2026-11-05 | Italy's INPS launches "Arianna," a multi-agent GenAI benefits assistant covering 400+ services | https://www.inps.it/it/it/inps-comunica/notizie/dettaglio-news-page.news.2026.10.arianna-il-nuovo-assistente-digitale-basato-sull-ai.html
+2026-11-05 | Mozambique approves 2026-2035 Public Finance Management Strategy centered on AI | https://iafrica.com/mozambique-to-bring-ai-into-public-finance-management-under-2026-2035-strategy/

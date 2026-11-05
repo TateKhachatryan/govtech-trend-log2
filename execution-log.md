@@ -613,3 +613,12 @@
 - Slack webhook response: HTTP 200, body "ok" — success.
 - Reported-history.md updated with both items.
 - No errors encountered.
+
+## Run: 2026-11-05 (manual/interactive invocation)
+- History file existed (reported-history.md present) → used normal 24-48hr search window.
+- Searched: low-code/no-code govtech platforms (Appian, Pega, ServiceNow, Microsoft Power Platform) + AI features across eJustice, Social Protection, PFM, M&E; plus donor/dev-bank sources (World Bank, UN, ADB).
+- Candidates found: ~10 (Vietnam Civil Service AI Platform; INPS Arianna GenAI assistant; Mozambique PFM AI Strategy 2026-2035; ServiceNow Control Tower Alliance; Appian public-sector AI survey; DWP Child Maintenance ML model NAO report; Litmas AI Agentic Associate; UK Courts AI items already covered; World Bank "Eva" AI research tool; Abu Dhabi/OpenAI MRG - already in history).
+- Survived filtering: 3 (Vietnam Civil Service AI Platform rollout; Italy INPS "Arianna" multi-agent GenAI benefits assistant; Mozambique 2026-2035 PFM AI Strategy). Others discarded as duplicates of history (Abu Dhabi/OpenAI MRG, AWS Semarak Malaysia), not clearly govt-specific (ServiceNow alliance, general survey), or not low-code/AI-govtech platform relevant (Litmas litigation tool, DWP NAO report on a model live since 2024).
+- Outcome: digest sent (3 items).
+- Slack webhook response: HTTP 200, body "ok" — success.
+- Errors: none. Temp payload file and response file deleted after send.
