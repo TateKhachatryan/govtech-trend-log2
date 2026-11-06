@@ -52,3 +52,6 @@
 2026-11-05 | Vietnam rolls out nationwide "Civil Service AI Platform" across all ministries/provinces | https://dev.to/vuhung16au/vietnam-ai-llm-daily-briefing-nov-05-2026-130d
 2026-11-05 | Italy's INPS launches "Arianna," a multi-agent GenAI benefits assistant covering 400+ services | https://www.inps.it/it/it/inps-comunica/notizie/dettaglio-news-page.news.2026.10.arianna-il-nuovo-assistente-digitale-basato-sull-ai.html
 2026-11-05 | Mozambique approves 2026-2035 Public Finance Management Strategy centered on AI | https://iafrica.com/mozambique-to-bring-ai-into-public-finance-management-under-2026-2035-strategy/
+2026-11-06 | U.S. Army awards Pega a 10-year, up-to-$419M enterprise contract | https://www.stocktitan.net/news/PEGA/u-s-army-awards-pega-10-year-enterprise-contract-to-accelerate-cai6f9zgg6rg.html
+2026-11-06 | GovCIO's Appian-built eligibility/benefits platform cuts processing time 60%+ | https://www.prnewswire.com/news-releases/appian-announces-2026-us-public-sector-partner-award-winners-302923692.html
+2026-11-06 | Appian Q3 2026: federal government now 30% of revenue, AI usage up 50% QoQ | https://www.benzinga.com/markets/earnings/26/11/62936972/appian-ceo-says-us-government-is-embracing-ai-efficiency-as-federal-deals-grow

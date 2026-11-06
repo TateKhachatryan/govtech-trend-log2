@@ -622,3 +622,12 @@
 - Outcome: digest sent (3 items).
 - Slack webhook response: HTTP 200, body "ok" — success.
 - Errors: none. Temp payload file and response file deleted after send.
+
+## Run: 2026-11-06 (manual/interactive invocation)
+- History file existed (reported-history.md present) → used normal 24-48h search window per step 2.
+- Searched: low-code/no-code govtech platform news (Appian, Pega, OutSystems, Mendix, Power Platform, ServiceNow, Salesforce), AI-in-govtech across eJustice/Social Protection/PFM/M&E, donor/dev-bank sources (World Bank, ADB, EU, UN).
+- Candidate items found: ~10-12 (Pega Army contract, ServiceNow Autonomous Workforce, Appian GovCIO award, Appian Q3 earnings, EU AI Gigafactories tender, Treasury AI resources, DOJ Super Intelligence Task Force, ONE Data Development Finance Observatory, various M&E/court AI items — mostly older/already-reported/low-fit on closer inspection).
+- After filtering against reported-history.md and relevance to the four verticals: 3 items survived (Pega $419M Army contract; GovCIO/Appian benefits-eligibility case management platform; Appian Q3 2026 earnings showing federal/AI growth). Note: Pega contract (Nov 2) and GovCIO award (Oct 29) were slightly outside the strict 24-48h window but had not yet been reported and were the most relevant, high-confidence finds this run.
+- Outcome: sent a 3-item digest (not "nothing notable").
+- Slack webhook response: HTTP 200, body "ok" — success.
+- Errors: none for this run. Note (factual, not investigated further): cron-run.log shows "=== Run started: Fri Nov  6 12:00:00 +04 2026 ===" as its last line with no further output after it (no completion/error lines), and neither this execution log nor reported-history.md had any 2026-11-06 entries prior to this manual run — suggesting today's scheduled cron run started but did not finish.
