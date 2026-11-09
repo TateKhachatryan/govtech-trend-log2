@@ -55,3 +55,6 @@
 2026-11-06 | U.S. Army awards Pega a 10-year, up-to-$419M enterprise contract | https://www.stocktitan.net/news/PEGA/u-s-army-awards-pega-10-year-enterprise-contract-to-accelerate-cai6f9zgg6rg.html
 2026-11-06 | GovCIO's Appian-built eligibility/benefits platform cuts processing time 60%+ | https://www.prnewswire.com/news-releases/appian-announces-2026-us-public-sector-partner-award-winners-302923692.html
 2026-11-06 | Appian Q3 2026: federal government now 30% of revenue, AI usage up 50% QoQ | https://www.benzinga.com/markets/earnings/26/11/62936972/appian-ceo-says-us-government-is-embracing-ai-efficiency-as-federal-deals-grow
+2026-11-09 | Singapore GovTech unveils ARC Framework and GovHarness for government AI agents | https://govinsider.asia/intl-en/article/govtech-singapore-stresses-need-for-shared-platforms-as-ai-agents-move-into-citizen-services
+2026-11-09 | Jharkhand High Court (India) opens data centre with AI speech-to-text for judicial officers | https://indianmasterminds.com/news/judiciary/jharkhand-high-court-data-centre-247806/
+2026-11-09 | France fast-tracks Mistral AI deal for tax authority DGFiP after major data breach | https://www.connexionfrance.com/news/frances-tax-office-turns-to-ai-after-major-hack/822053
