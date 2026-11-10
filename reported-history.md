@@ -58,3 +58,7 @@
 2026-11-09 | Singapore GovTech unveils ARC Framework and GovHarness for government AI agents | https://govinsider.asia/intl-en/article/govtech-singapore-stresses-need-for-shared-platforms-as-ai-agents-move-into-citizen-services
 2026-11-09 | Jharkhand High Court (India) opens data centre with AI speech-to-text for judicial officers | https://indianmasterminds.com/news/judiciary/jharkhand-high-court-data-centre-247806/
 2026-11-09 | France fast-tracks Mistral AI deal for tax authority DGFiP after major data breach | https://www.connexionfrance.com/news/frances-tax-office-turns-to-ai-after-major-hack/822053
+2026-11-10 | ADB approves $98M "Advancing Digital Transformation Project" for Sri Lanka | https://economynext.com/adb-approves-98mn-loan-to-advance-digital-transformation-in-sri-lanka-289519/
+2026-11-10 | UK's GOV.UK Chat hits 7,000+ users/month; GDS plans agentic upgrade in 2027 | https://www.publictechnology.net/2026/11/09/society-and-welfare/gov-uk-chat-fields-questions-from-7000-users-per-month/
+2026-11-10 | CMS and Education Dept. tout AI-driven fraud prevention savings | https://federalnewsnetwork.com/agency-oversight/2026/11/cms-education-tout-data-driven-fraud-prevention-savings/
+2026-11-10 | UNICEF publishes "AI for Social Protection" study on China's social-assistance AI pilots | https://www.unicef.cn/en/reports/ai-social-protection

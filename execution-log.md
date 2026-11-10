@@ -642,3 +642,12 @@
 - **Slack webhook response:** HTTP 200, body "ok" — success.
 - **History file update:** Appended 3 new lines to reported-history.md.
 - **Errors:** None.
+
+## Run: 2026-11-10 (manual/interactive invocation)
+- History window: normal 24-48h (reported-history.md already existed).
+- Searched: low-code/no-code govtech vendor news (Appian, Pega, Mendix, OutSystems, Microsoft Power Platform, ServiceNow), AI-in-govtech across eJustice/Social Protection/PFM/M&E, analyst reports (Gartner/Forrester), donor sources (World Bank, ADB, UN, EU).
+- Candidates found: ~12-15 items surfaced across searches (ADB Sri Lanka loan, GOV.UK Chat update, CMS/Education fraud prevention, UNICEF AI-for-social-protection report, ServiceNow EmployeeWorks [too old, Mar 2026], Microsoft Frontier Suite for GCC [Nov 3, slightly outside window], India Draft AI Court Regulations [already drafted June 2026, no new development], World Development Report 2026 [already old, Aug 2026], Synergy Indicata/IDM8 M&E mention [excluded: appears to be the user's own company's product, not competitive intel]).
+- Survived filtering: 4 items (all dated Nov 9-10, 2026, not in prior history).
+- Outcome: digest sent (4 items).
+- Slack webhook response: HTTP 200, body "ok" — success.
+- Errors: none.
