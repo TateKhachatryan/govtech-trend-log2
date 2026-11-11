@@ -651,3 +651,12 @@
 - Outcome: digest sent (4 items).
 - Slack webhook response: HTTP 200, body "ok" — success.
 - Errors: none.
+
+## Run: 2026-11-11 (manual/interactive invocation)
+- History file existed (last entry 2026-11-10) -> used normal 24-48h search window.
+- Searched broadly across eJustice, Social Protection, PFM, M&E for low-code/no-code platform news and AI-in-govtech features via ~20 web searches (Appian/Pega/OutSystems/Mendix/Power Platform/ServiceNow/Salesforce/Creatio, donor-bank sources, judiciary AI, social protection AI, PFM AI, M&E AI).
+- Candidates found: ~15-20 stories surfaced, most were duplicates of items already in reported-history.md (e.g. Google Gemini for Government Services = Oct 20/21 story already reported; Salesforce IDC MarketScape = Aug 19; EU EuropAI pilot = same July 2026 Digital Europe program already reported Sept 18; Philippine SC AI framework and LA Courts AI pilot = too old, Feb-Apr 2026) or not clearly tied to low-code/no-code govtech (DOJ Super Intelligence Task Force, IBM/Microsoft Imagine Enterprise agentic platform targeting financial services/insurance/retail first, not yet public sector).
+- 2 items survived filtering as genuinely new and dated 2026-11-10: Pega Cloud for Government GovRAMP Impact High certification; LexisNexis Risk Solutions "Know Your Agent" intelligence for government AI-agent detection (fraud/risk relevance to Social Protection + PFM).
+- Outcome: sent a digest (2 items) rather than "nothing notable" message.
+- Slack webhook response: HTTP 200, body "ok" — success.
+- No errors encountered.

@@ -62,3 +62,5 @@
 2026-11-10 | UK's GOV.UK Chat hits 7,000+ users/month; GDS plans agentic upgrade in 2027 | https://www.publictechnology.net/2026/11/09/society-and-welfare/gov-uk-chat-fields-questions-from-7000-users-per-month/
 2026-11-10 | CMS and Education Dept. tout AI-driven fraud prevention savings | https://federalnewsnetwork.com/agency-oversight/2026/11/cms-education-tout-data-driven-fraud-prevention-savings/
 2026-11-10 | UNICEF publishes "AI for Social Protection" study on China's social-assistance AI pilots | https://www.unicef.cn/en/reports/ai-social-protection
+2026-11-11 | Pega Cloud for Government achieves GovRAMP Impact High Level status | https://www.financialcontent.com/article/bizwire-2026-11-10-pega-cloud-for-government-achieves-govramp-impact-high-level-status
+2026-11-11 | LexisNexis Risk Solutions launches "Know Your Agent" intelligence for government agencies | https://www.prnewswire.com/news-releases/lexisnexis-risk-solutions-introduces-know-your-agent-intelligence-to-help-government-agencies-navigate-the-rise-of-ai-agents-302933786.html
