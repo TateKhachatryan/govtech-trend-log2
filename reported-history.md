@@ -64,3 +64,6 @@
 2026-11-10 | UNICEF publishes "AI for Social Protection" study on China's social-assistance AI pilots | https://www.unicef.cn/en/reports/ai-social-protection
 2026-11-11 | Pega Cloud for Government achieves GovRAMP Impact High Level status | https://www.financialcontent.com/article/bizwire-2026-11-10-pega-cloud-for-government-achieves-govramp-impact-high-level-status
 2026-11-11 | LexisNexis Risk Solutions launches "Know Your Agent" intelligence for government agencies | https://www.prnewswire.com/news-releases/lexisnexis-risk-solutions-introduces-know-your-agent-intelligence-to-help-government-agencies-navigate-the-rise-of-ai-agents-302933786.html
+2026-11-12 | Indonesia launches nationwide "Perlinsos Digital" social protection platform | https://voi.id/fr/economie/599302
+2026-11-12 | Tyler Technologies, Nava PBC, Arkenstone win top honors at inaugural 2026 GovTech Breakthrough Awards | https://www.globenewswire.com/news-release/2026/11/11/3400857/0/en/2026-govtech-breakthrough-awards-program-recognizes-the-world-s-most-innovative-government-technology-companies.html
+2026-11-12 | Pakistan's FBR rolls out AI system to flag tax-return discrepancies | https://www.dawn.com/news/2043897/fbr-deploys-ai-to-detect-discrepancies-in-tax-returns

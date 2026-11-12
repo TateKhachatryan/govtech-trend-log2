@@ -660,3 +660,12 @@
 - Outcome: sent a digest (2 items) rather than "nothing notable" message.
 - Slack webhook response: HTTP 200, body "ok" — success.
 - No errors encountered.
+
+## Run: 2026-11-12 (manual/interactive invocation)
+- History check: reported-history.md existed (last entry 2026-11-11) -> used normal 24-48h search window.
+- Searched: eJustice/case-management, Social Protection, PFM, M&E low-code + AI govtech news; donor sources (World Bank, ADB, UN); vendor news (Appian, Pega, OutSystems, ServiceNow, Microsoft Power Platform); govtech awards.
+- Candidates found: ~10 (Indonesia Perlinsos Digital launch, GovTech Breakthrough Awards 2026 winners, Pakistan FBR AI tax discrepancy detection, OutSystems agentic claims (insurance, not gov-specific - discarded), FMLD Nigeria M&E dashboard (too old, Aug 2026 - discarded), India Su-Sahayak chatbot (too old, May 2026 - discarded), UK Administrative Court JR Guide 2026 AI section (too old/already covered, Sept 2026 pub - discarded), World Bank WDR2026 AI report (general, not a new dated event - discarded), various duplicates of recent history items).
+- Survived filtering: 3 items (Indonesia Perlinsos Digital social protection launch; GovTech Breakthrough Awards case management/eligibility/benefits winners; Pakistan FBR AI tax discrepancy detection).
+- Outcome: digest sent (3 items).
+- Slack webhook response: HTTP 200, body "ok" (success).
+- Errors: none. Temp payload file /tmp/trend-slack-message.txt deleted after send.
