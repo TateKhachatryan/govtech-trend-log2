@@ -67,3 +67,5 @@
 2026-11-12 | Indonesia launches nationwide "Perlinsos Digital" social protection platform | https://voi.id/fr/economie/599302
 2026-11-12 | Tyler Technologies, Nava PBC, Arkenstone win top honors at inaugural 2026 GovTech Breakthrough Awards | https://www.globenewswire.com/news-release/2026/11/11/3400857/0/en/2026-govtech-breakthrough-awards-program-recognizes-the-world-s-most-innovative-government-technology-companies.html
 2026-11-12 | Pakistan's FBR rolls out AI system to flag tax-return discrepancies | https://www.dawn.com/news/2043897/fbr-deploys-ai-to-detect-discrepancies-in-tax-returns
+2026-11-16 | SAS: AI-driven fraud outpacing government benefit defenses, driving SNAP payment-integrity AI adoption | https://www.prnewswire.com/news-releases/fraud-week-2026-ai-deception-tests-yesterdays-defenses-302939288.html
+2026-11-16 | DHS's Homeland Security Investigations says AI casework tools must be auditable and human-checked | https://fedscoop.com/homeland-security-investigations-auditable-ai-event/

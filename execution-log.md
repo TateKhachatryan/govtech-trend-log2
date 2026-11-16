@@ -678,3 +678,13 @@
 - Outcome: "nothing notable" message sent.
 - Slack webhook response: HTTP 200, body "ok" (success).
 - Errors: none. Temp payload file /tmp/trend-slack-message.txt deleted after send.
+
+## Run: 2026-11-16 (manual/interactive invocation)
+- History file existed (last entry 2026-11-12), so used normal ~24-48h search window (checked roughly Nov 13-16).
+- Searched broadly across: low-code vendor news (Appian, Pega, ServiceNow, Microsoft Power Platform, OutSystems), AI-in-govtech across eJustice/Social Protection/PFM/M&E, analyst commentary, and donor/dev-bank sources (World Bank, ADB, UNDP) via ~20 web searches.
+- Found several candidates already covered by prior history (Indonesia Perlinsos, INPS Arianna, World Bank Digital Strategy, ADB Sri Lanka $98M, GovTech Breakthrough Awards) or too old/outside window (Pakistan National E-Justice Portal from Aug 2026, ADB Nepal loan from March 2026, EU GenAI pilots from July 2026, LA Courts "Learned Hand" from Feb 2026).
+- Evaluated but excluded as not clearly tied to our 4 verticals: AION decision-intelligence platform (India power/disaster/police, not eJustice/SocPro/PFM/M&E), ServiceNow Autonomous CRM Engine (not gov-specific), VA.gov AI update (follow-on to already-reported America.gov story), various UNDP tenders (posted too long ago to be "new", e.g. UNDP-PHL-01059 posted Nov 9), Georgia state AI Playbook (general AI governance guide, not vertical-specific).
+- Candidates found vs. survived filter: ~10 candidates reviewed in depth, 2 survived as genuinely new and notable.
+- Outcome: sent a digest with 2 items (SAS Fraud Week/SNAP payment-integrity AI release, Nov 13; FedScoop report on DHS Homeland Security Investigations requiring auditable AI, Nov 13).
+- Slack webhook response: HTTP 200, body "ok" — success.
+- No errors encountered. Temp payload/message files deleted after send.
