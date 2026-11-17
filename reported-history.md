@@ -69,3 +69,5 @@
 2026-11-12 | Pakistan's FBR rolls out AI system to flag tax-return discrepancies | https://www.dawn.com/news/2043897/fbr-deploys-ai-to-detect-discrepancies-in-tax-returns
 2026-11-16 | SAS: AI-driven fraud outpacing government benefit defenses, driving SNAP payment-integrity AI adoption | https://www.prnewswire.com/news-releases/fraud-week-2026-ai-deception-tests-yesterdays-defenses-302939288.html
 2026-11-16 | DHS's Homeland Security Investigations says AI casework tools must be auditable and human-checked | https://fedscoop.com/homeland-security-investigations-auditable-ai-event/
+2026-11-17 | eCourtDate wins "Overall CRM Company of the Year" at 2026 LegalTech Breakthrough Awards | https://www.globenewswire.com/news-release/2026/11/16/3403874/0/en/ecourtdate-recognized-by-legaltech-breakthrough-as-2026-overall-client-relationship-management-company-of-the-year.html
+2026-11-17 | IRS piloting agentic AI tool to handle "rote" fraud-case steps | https://fedscoop.com/irs-identity-theft-fraud-fighting-agentic-ai-tool/
