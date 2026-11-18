@@ -697,3 +697,12 @@
 - Outcome: digest sent (2 items, below the usual 3-6 range — most other leads were either duplicates, too old for the window, or not clearly govtech/low-code specific).
 - Slack webhook response: HTTP 200, body "ok" (success).
 - Errors: none. Temp payload file deleted after send.
+
+## Run: 2026-11-18 (interactive/manual)
+- reported-history.md existed (last entry 2026-11-17) -> used normal 24-48h search window.
+- Searched: govtech/low-code vendor news (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow), AI-in-eJustice/Social Protection/PFM/M&E developments, donor-bank sources (World Bank, UN, ADB, EU).
+- Candidates found: ~8-10 (Appian control plane, Federal Judiciary AI task force update, Microsoft Ignite Copilot GCC/GCC-High/DoD expansion, Partnership for Public Service AI Excellence Awards, Singapore AI fraud/lending missions, World Bank Digital & AI Strategy implementation plan, LA Courts AI pilot, Azure Copilot/SRE Agent GA at Ignite).
+- Filtered down to 4 after removing duplicates of already-reported stories (World Bank Digital Strategy duplicate of 2026-10-21 entry; LA Courts pilot is old news from Feb/Mar 2026, outside window) and items too tangential to the four verticals (Singapore fraud/lending, general Azure SRE Agent GA).
+- Outcome: digest sent with 4 items (Appian, Federal Judiciary, Microsoft GCC Copilot expansion, Partnership for Public Service AI Excellence Awards).
+- Slack webhook response: HTTP 200, body "ok" (success).
+- No errors encountered. Temp payload file and response file deleted after posting.
