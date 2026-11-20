@@ -75,3 +75,5 @@
 2026-11-18 | Federal Judiciary's AI task force surfaces ~60 issues, 7 subgroups ahead of year-end guidance | https://news.bloomberglaw.com/us-law-week/federal-judiciary-prepares-recommendations-on-courts-ai-usage
 2026-11-18 | Microsoft expands Copilot Researcher/Analyst agents and Agent Builder to GCC, GCC-High, DoD clouds | https://techcommunity.microsoft.com/blog/publicsectorblog/continuing-our-momentum-expanding-microsoft-365-copilot-capabilities-across-u-s-/4506954
 2026-11-18 | Partnership for Public Service launches inaugural Public Service AI Excellence Awards | https://ourpublicservice.org/know-the-facts/resource-library/press-room/partnership-for-public-service-announces-2026-public-service-ai-excellence-award-winners
+2026-11-20 | DWP confirms live AI trial for Universal Credit targeted case reviews | https://www.publictechnology.net/2026/11/19/society-and-welfare/dwp-reveals-trials-of-ai-in-universal-credit-claim-reviews/
+2026-11-20 | Microsoft Entra Agent ID reaches general availability at Ignite 2026 | https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-changing-access-see-how-microsoft-entra-helps-you-stay-ahead-/4556456

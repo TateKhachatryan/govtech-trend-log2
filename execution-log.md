@@ -706,3 +706,12 @@
 - Outcome: digest sent with 4 items (Appian, Federal Judiciary, Microsoft GCC Copilot expansion, Partnership for Public Service AI Excellence Awards).
 - Slack webhook response: HTTP 200, body "ok" (success).
 - No errors encountered. Temp payload file and response file deleted after posting.
+
+## Run: 2026-11-20 (interactive/manual)
+- reported-history.md existed (last entry 2026-11-18, one day gap - Mac likely off/asleep on 11-19) -> used normal 24-48h search window, extended slightly to cover the gap back to 11-18.
+- Searched: govtech/low-code vendor news (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow), AI-in-eJustice/Social Protection/PFM/M&E developments, analyst commentary, donor-bank sources (World Bank, UN/ILO, ADB, EU).
+- Candidates found: ~12 (DWP Universal Credit AI case reviews; Microsoft Ignite Entra Agent ID GA/Agent 365; Appian Europe "Ask Appian"/control plane - duplicate of 2026-11-18 entry; Palestinian ILO/EU/UNICEF Social Protection Community of Practice - Nov 4, too old and more a coordination forum than a platform; Avanade/Robiquity acquisition - Nov 11, too old; Canada Budget 2026 digital transformation fund - Nov 5, too old; LA Courts "Learned Hand" AI judge-drafting pilot - actually from March 2026, stale; OutSystems FedRAMP authorization - Feb 2026 story resurfacing, stale; Google Opal shutdown, Code Effects v7, Performativ MCP, MAS/FCA fintech AI - not government-sector specific).
+- Survived filtering: 2 items (DWP Universal Credit AI case reviews - Social Protection; Microsoft Entra Agent ID GA - AI agent governance platform).
+- Outcome: digest sent (2 items, below usual 3-6 range — most other leads were duplicates, stale/out-of-window, or not clearly tied to the four verticals/low-code platforms).
+- Slack webhook response: HTTP 200, body "ok" (success).
+- No errors encountered. Temp payload file and response file deleted after posting.
