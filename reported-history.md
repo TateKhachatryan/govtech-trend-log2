@@ -77,3 +77,8 @@
 2026-11-18 | Partnership for Public Service launches inaugural Public Service AI Excellence Awards | https://ourpublicservice.org/know-the-facts/resource-library/press-room/partnership-for-public-service-announces-2026-public-service-ai-excellence-award-winners
 2026-11-20 | DWP confirms live AI trial for Universal Credit targeted case reviews | https://www.publictechnology.net/2026/11/19/society-and-welfare/dwp-reveals-trials-of-ai-in-universal-credit-claim-reviews/
 2026-11-20 | Microsoft Entra Agent ID reaches general availability at Ignite 2026 | https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-changing-access-see-how-microsoft-entra-helps-you-stay-ahead-/4556456
+2026-11-23 | World Bank backs $165.9M Malawi INSPIRE-O project to modernize Social Registry and Core MIS | https://www.nyasatimes.com/malawi-signs-us221-9m-social-protection-and-export-deals-with-world-bank/
+2026-11-23 | Lebanon's Parliament ratifies $200M World Bank loan to upgrade DAEM into a full social registry | https://enmaeya.com/en/news/6af59681670c0acb75aebbbd
+2026-11-23 | ADB commits up to $5B to a new ASEAN Regional Platform for AI and Digital Economy | https://www.adb.org/news/adb-completes-30-billion-asean-pledge-13-billion-resilient-rivers-and-digital-economy
+2026-11-23 | European Commission opens €297M in Horizon Europe AI calls, including AI uptake in the public sector and LMICs | https://digital-strategy.ec.europa.eu/en/news/commission-launches-over-eu290-million-boost-eu-tech-sovereignty-and-beyond
+2026-11-23 | Pegasystems signals a more "disciplined" 2027 after a year of AI-spending surge (RBC conference) | https://www.investing.com/news/transcripts/pegasystems-at-rbc-conference-ai-push-meets-sales-reset-93CH-5036588

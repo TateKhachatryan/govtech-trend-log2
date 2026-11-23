@@ -715,3 +715,12 @@
 - Outcome: digest sent (2 items, below usual 3-6 range — most other leads were duplicates, stale/out-of-window, or not clearly tied to the four verticals/low-code platforms).
 - Slack webhook response: HTTP 200, body "ok" (success).
 - No errors encountered. Temp payload file and response file deleted after posting.
+
+## Run: 2026-11-23 (manual/interactive)
+- History existed (last entry 2026-11-20) -> used normal ~24-48h window, extended slightly to cover gap since last run (searched roughly Nov 18-23).
+- Searched: low-code/no-code govtech platforms (Appian, Pega, OutSystems, Mendix, Power Platform, ServiceNow) + AI features across eJustice, Social Protection, PFM, M&E; donor/dev-bank sources (World Bank, ADB, EU, UN).
+- Candidates surfaced: ~15-20 (many duplicates of already-reported stories: Appian control plane, Indonesia Perlinsos, Microsoft Ignite/Entra Agent ID, GSA AI rule, ADB Sri Lanka $98M, ServiceNow 50-states release turned out to be from July 2026 not new, LA Courts AI judge tool turned out to be from March 2026 not new).
+- Survived filtering: 5 genuinely new items (Malawi INSPIRE-O World Bank social protection financing, Lebanon World Bank social safety net loan ratification, ADB ASEAN $5B AI/digital economy platform, EU Horizon Europe €297M AI calls, Pegasystems AI-spending commentary from RBC conference).
+- Outcome: sent digest (5 items) to Slack.
+- Slack webhook response: HTTP 200, body "ok" (success).
+- Errors: none. Note (factual, no action taken): several search results initially looked fresh but were actually older stories resurfacing in search (ServiceNow 50-states PR from July 2026, LA Courts AI judge pilot from March 2026) — had to verify original publish dates before discarding as non-new.
