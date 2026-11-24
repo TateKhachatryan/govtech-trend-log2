@@ -82,3 +82,7 @@
 2026-11-23 | ADB commits up to $5B to a new ASEAN Regional Platform for AI and Digital Economy | https://www.adb.org/news/adb-completes-30-billion-asean-pledge-13-billion-resilient-rivers-and-digital-economy
 2026-11-23 | European Commission opens €297M in Horizon Europe AI calls, including AI uptake in the public sector and LMICs | https://digital-strategy.ec.europa.eu/en/news/commission-launches-over-eu290-million-boost-eu-tech-sovereignty-and-beyond
 2026-11-23 | Pegasystems signals a more "disciplined" 2027 after a year of AI-spending surge (RBC conference) | https://www.investing.com/news/transcripts/pegasystems-at-rbc-conference-ai-push-meets-sales-reset-93CH-5036588
+2026-11-24 | UAE launches "Mira," an agentic AI concierge replacing its app-based government services model | https://www.wam.ae/en/article/c3efg2l-mohammed-bin-rashid-witnesses-launch-new-uae
+2026-11-24 | Abu Dhabi previews "GovIQ," a proactive AI layer on TAMM, at GITEX 2026 | https://gulfnews.com/uae/abu-dhabi/abu-dhabi-to-take-ai-government-ambitions-to-gitex-2026-1.500758152
+2026-11-24 | Council of Europe's CCJE adopts Opinion No. 29(2026) on AI use in the judicial process | https://www.coe.int/en/web/ccje/-/second-meeting-of-the-working-group-to-draft-the-ccje-opinion-on-the-use-of-artificial-intelligence-ai-in-the-judicial-process
+2026-11-24 | Nigeria opens EU/Germany(GIZ)-backed National Social Protection Knowledge and Learning Forum | https://allafrica.com/stories/202611240137.html

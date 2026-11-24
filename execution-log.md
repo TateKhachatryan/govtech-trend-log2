@@ -724,3 +724,12 @@
 - Outcome: sent digest (5 items) to Slack.
 - Slack webhook response: HTTP 200, body "ok" (success).
 - Errors: none. Note (factual, no action taken): several search results initially looked fresh but were actually older stories resurfacing in search (ServiceNow 50-states PR from July 2026, LA Courts AI judge pilot from March 2026) — had to verify original publish dates before discarding as non-new.
+
+## Run: 2026-11-24 12:02
+- History check: reported-history.md existed (last entry 2026-11-23) -> used normal 24-48h search window.
+- Searched: govtech/vendor news (Appian, Pega, Microsoft, ServiceNow, OutSystems, Mendix), AI-in-gov features across eJustice/Social Protection/PFM/M&E, analyst commentary, donor/dev-bank sources (World Bank, UN, ADB, EU, CoE), for ~24-48h window.
+- Candidates found: ~12-15 surfaced across searches; most were duplicates of already-reported stories (e.g. Pega RBC conference follow-up, World Bank digital strategy, DWP AI trial, Gartner I&O governance warning) or outside the time window (Govra launch, Appian/Pega litigation history).
+- Survived filtering: 4 genuinely new items (UAE "Mira" AI concierge; Abu Dhabi "GovIQ" TAMM preview; CoE CCJE Opinion No. 29(2026) on judicial AI; Nigeria EU/GIZ-backed Social Protection Learning Forum).
+- Outcome: sent digest (4 items) to Slack.
+- Slack webhook response: HTTP 200, body "ok" (success).
+- Errors: none.
