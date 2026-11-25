@@ -86,3 +86,6 @@
 2026-11-24 | Abu Dhabi previews "GovIQ," a proactive AI layer on TAMM, at GITEX 2026 | https://gulfnews.com/uae/abu-dhabi/abu-dhabi-to-take-ai-government-ambitions-to-gitex-2026-1.500758152
 2026-11-24 | Council of Europe's CCJE adopts Opinion No. 29(2026) on AI use in the judicial process | https://www.coe.int/en/web/ccje/-/second-meeting-of-the-working-group-to-draft-the-ccje-opinion-on-the-use-of-artificial-intelligence-ai-in-the-judicial-process
 2026-11-24 | Nigeria opens EU/Germany(GIZ)-backed National Social Protection Knowledge and Learning Forum | https://allafrica.com/stories/202611240137.html
+2026-11-25 | India launches AI-powered "SAMAVESH" unified welfare platform and revamped e-Anudaan grant portal | https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2340843
+2026-11-25 | Tenth Circuit becomes first US federal appeals court to adopt formal AI-use certification rule for filings | https://www.bhfs.com/insight/tenth-circuit-latest-court-to-require-ai-certification
+2026-11-25 | Pega/HarrisX survey: UK public backs AI in government services but demands transparency and human oversight | https://www.comparethecloud.net/news/uk-public-backs-ai-in-government-services-but-wants-a-human-to-decide-pega-research-finds

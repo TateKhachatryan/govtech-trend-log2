@@ -733,3 +733,12 @@
 - Outcome: sent digest (4 items) to Slack.
 - Slack webhook response: HTTP 200, body "ok" (success).
 - Errors: none.
+
+## Run: 2026-11-25 (manual/interactive invocation)
+- History file existed (last entry 2026-11-24) -> used normal 24-48h search window.
+- Searched: eJustice/court AI, social protection platforms, PFM/treasury AI, low-code vendor news (Appian/Pega/OutSystems/Mendix/ServiceNow/Microsoft Power Platform), World Bank/ADB/UN/EU donor news, analyst (Gartner/Forrester) coverage.
+- Candidates found: ~12-15 across verticals; most were outside the 24-48h window (e.g. DOJ Super Intelligence Task Force Nov 5, OutSystems FedRAMP Feb 2026, ServiceNow-Microsoft Agent 365 integration May 2026, HHS FOIA AI portal Nov 24 but not tied to any of the 4 target verticals) or already-covered recycled stories.
+- Survived filtering: 3 items (India SAMAVESH/e-Anudaan launch - Social Protection; Tenth Circuit AI certification rule - eJustice; Pega/HarrisX UK public-trust-in-AI survey - cross-vertical govtech AI signal).
+- Outcome: sent a 3-item digest (not "nothing notable").
+- Slack webhook response: HTTP 200, body "ok" (success).
+- No errors encountered.
