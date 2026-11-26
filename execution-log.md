@@ -742,3 +742,14 @@
 - Outcome: sent a 3-item digest (not "nothing notable").
 - Slack webhook response: HTTP 200, body "ok" (success).
 - No errors encountered.
+
+## Run: 2026-11-26
+
+- reported-history.md existed (last entry 2026-11-25) → used normal 24-48h search window.
+- Searched: low-code/no-code govtech vendor news (Appian, Pega, OutSystems, Mendix, Microsoft Power Platform, ServiceNow, Salesforce, cBrain, Euna Solutions, Zammo.ai, Gartner/Forrester/IDC analyst coverage); AI features in eJustice (judiciary AI rules, case management), Social Protection (benefits/fraud AI, social registries), PFM (treasury/fraud AI), and M&E (UN E-Government Survey, evaluation platforms); donor/dev-bank sources (World Bank, ADB, UN agencies, EU Horizon) for tenders/project approvals.
+- Candidates found: ~12-15, but all either (a) duplicates of items already in reported-history.md from 2026-11-24/25 (SAMAVESH launch, Tenth Circuit AI certification rule, CCJE Opinion 29, Pega/HarrisX UK survey), or (b) outside the 24-48h window despite being otherwise relevant (cBrain F2 agentic AI — March 2026; Euna Solutions AI/grant discovery — Jan/Mar/Jun 2026; Zammo Agents at Smart City Expo — early Nov 2026; Abu Dhabi "AI-in-a-Box" — Oct 2025/Q2 2026 rollout; Salesforce American SI Exports consortium — Nov 19; FEMA AI fraud-detection RFI — Nov 17; Gartner AI-Augmented Low-Code MQ — Sep 28).
+- Survived filtering: 0 items.
+- Outcome: "nothing notable" digest message sent.
+- Slack webhook response: HTTP 200, body "ok" — success.
+- No history update (no new items to append).
+- Errors: none.
