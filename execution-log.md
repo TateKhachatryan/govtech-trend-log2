@@ -753,3 +753,12 @@
 - Slack webhook response: HTTP 200, body "ok" — success.
 - No history update (no new items to append).
 - Errors: none.
+
+## Run: 2026-11-27 (manual/interactive)
+- History file existed (last entry 2026-11-25) -> used normal ~24-48h search window.
+- Searched: low-code/no-code govtech platform news, AI features in eJustice/Social Protection/PFM/M&E, vendor news (Appian/Pega/OutSystems/Mendix/Power Platform/ServiceNow/Salesforce/Google), donor sources (World Bank/ADB/EU/UN).
+- Candidate items surfaced: ~10-12 (many recycled/outdated or already in history, e.g. DOJ AI task force, ServiceNow Knowledge updates (May 2026), UAE MoF FinGPT (June 2026), World Bank Uzbekistan $800M package (policy loan, weak platform fit), India BHASHINI/SAMAVESH translation integration (too similar to already-reported SAMAVESH launch)).
+- Survived filtering: 2 items (GPSSA UAE AI pension/social-insurance platform; UK investigation into undisclosed AI use in 25+ court cases).
+- Outcome: digest sent with 2 items (below the usual 3-6 target; genuinely new/notable items were scarce this cycle, declined to pad with recycled or weak-fit items).
+- Slack webhook response: "ok", HTTP 200 (success).
+- No errors encountered.

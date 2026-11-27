@@ -89,3 +89,5 @@
 2026-11-25 | India launches AI-powered "SAMAVESH" unified welfare platform and revamped e-Anudaan grant portal | https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2340843
 2026-11-25 | Tenth Circuit becomes first US federal appeals court to adopt formal AI-use certification rule for filings | https://www.bhfs.com/insight/tenth-circuit-latest-court-to-require-ai-certification
 2026-11-25 | Pega/HarrisX survey: UK public backs AI in government services but demands transparency and human oversight | https://www.comparethecloud.net/news/uk-public-backs-ai-in-government-services-but-wants-a-human-to-decide-pega-research-finds
+2026-11-27 | UAE's GPSSA launches integrated AI platform unifying 7TB of pension and social-insurance data | https://www.wam.ae/en/article/c3fmasl-gpssa-develops-platform-integrating-seven
+2026-11-27 | Investigation finds undisclosed AI use disrupted 25+ court cases in England & Wales in 2026 | https://superpowerdaily.com/posts/investigation-finds-ai-misuse-in-at-least-25-court-cases-in-england-and-wales
